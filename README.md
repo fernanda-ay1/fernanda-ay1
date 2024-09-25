@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🌸
 
-<!--
-**fernanda-ay1/fernanda-ay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 meu nome é Fernanda Lehrbach
 
-Here are some ideas to get you started:
+🔤 estudante do ensino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🩹 cursando farmácia 
+
+🌼 15 anos 
+
+🇧🇷 aprendendo a programar
+
+### vc pode entrar em contato comigo 🔽
+
+### Fernanda.lehrbach.silva@escola.pr.gov.br
+![](https://media1.tenor.com/m/PQhYXs7lLmsAAAAC/switch_dayz-dayz.gif)
